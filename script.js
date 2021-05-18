@@ -10,7 +10,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 //Song titles
-const songs = ['Bella_Shmurda', 'kenny-kore', 'Timi_Dakolo']
+const songs = ['bella_shmurda', 'kenny-kore', 'Timi_Dakolo']
 
 //Keep track of song
 let songIndex = 0;
